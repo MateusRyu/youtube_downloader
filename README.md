@@ -12,8 +12,7 @@ Para instalar as dependências necessárias, siga as etapas abaixo:
 você salvou o aplicativo.
 3. Execute o seguinte comando para instalar as dependências:
 ``` bash
-# Esse comando irá ler o arquivo requirements.txt e instalar todas as 
-bibliotecas necessárias.
+# Esse comando irá ler o arquivo requirements.txt e instalar todas as bibliotecas necessárias.
 pip install -r requirements.txt
 ```
 
